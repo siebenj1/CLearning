@@ -1,5 +1,8 @@
 #include <stdio.h>
-
+/*This is a simple calculator user enters current weight in and then select the planet and the output is provided calulating your weight.
+This uses if else statements.  Case could also have been used for this.  Currently cannot get an unrecognized selection to print out 
+the necessary information.
+  */
 int main() {
 
   double weight;
